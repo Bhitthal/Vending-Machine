@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{45A732F8-C697-415B-B90E-BC026EF7462F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PhoenixFire</RootNamespace>
+    <AssemblyName>PhoenixFire</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="askrationno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="askrationno.Designer.cs">
+      <DependentUpon>askrationno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="FirstScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstScreen.Designer.cs">
+      <DependentUpon>FirstScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminpanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminpanel.Designer.cs">
+      <DependentUpon>adminpanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="details.Designer.cs">
+      <DependentUpon>details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="buybutton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="buybutton.Designer.cs">
+      <DependentUpon>buybutton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confirm_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confirm_page.Designer.cs">
+      <DependentUpon>confirm_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="arduino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arduino.Designer.cs">
+      <DependentUpon>arduino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="keroseneb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="keroseneb.Designer.cs">
+      <DependentUpon>keroseneb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wheatb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wheatb.Designer.cs">
+      <DependentUpon>wheatb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="riceb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="riceb.Designer.cs">
+      <DependentUpon>riceb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personaldetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personaldetails.Designer.cs">
+      <DependentUpon>personaldetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="adminpanel.resx">
+      <DependentUpon>adminpanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arduino.resx">
+      <DependentUpon>arduino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="askrationno.resx">
+      <DependentUpon>askrationno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="buybutton.resx">
+      <DependentUpon>buybutton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confirm_page.resx">
+      <DependentUpon>confirm_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="details.resx">
+      <DependentUpon>details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstScreen.resx">
+      <DependentUpon>FirstScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="keroseneb.resx">
+      <DependentUpon>keroseneb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personaldetails.resx">
+      <DependentUpon>personaldetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="riceb.resx">
+      <DependentUpon>riceb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wheatb.resx">
+      <DependentUpon>wheatb.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

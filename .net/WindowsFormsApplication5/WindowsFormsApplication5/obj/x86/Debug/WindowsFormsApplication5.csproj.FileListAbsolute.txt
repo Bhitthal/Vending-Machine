@@ -1,0 +1,16 @@
+c:\users\drago\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\drago\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\drago\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Shubhankar Mohan\Desktop\.net\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Shubhankar Mohan\Desktop\.net\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Shubhankar Mohan\Desktop\.net\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Shubhankar Mohan\Desktop\.net\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Shubhankar Mohan\Desktop\.net\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Shubhankar Mohan\Desktop\.net\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\Shubhankar Mohan\Desktop\.net\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\Shubhankar Mohan\Desktop\.net\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\Shubhankar Mohan\Desktop\.net\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\Shubhankar Mohan\Desktop\.net\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Shubhankar Mohan\Desktop\.net\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.AboutBox1.resources
+C:\Users\Shubhankar\Desktop\vending machine\.net\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\Shubhankar\Desktop\vending machine\.net\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb

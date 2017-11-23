@@ -1,0 +1,20 @@
+c:\users\shubhankar mohan\documents\visual studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.askrationno.resources
+c:\users\shubhankar mohan\documents\visual studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.personaldetails.resources
+c:\users\shubhankar mohan\documents\visual studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.Properties.Resources.resources
+c:\users\shubhankar mohan\documents\visual studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.csproj.GenerateResource.Cache
+c:\users\shubhankar mohan\documents\visual studio 2010\Projects\PhoenixFire\PhoenixFire\bin\Debug\PhoenixFire.exe
+c:\users\shubhankar mohan\documents\visual studio 2010\Projects\PhoenixFire\PhoenixFire\bin\Debug\PhoenixFire.pdb
+c:\users\shubhankar mohan\documents\visual studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.exe
+c:\users\shubhankar mohan\documents\visual studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.pdb
+C:\Users\Shubhankar Mohan\Documents\Visual Studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.FirstScreen.resources
+C:\Users\Shubhankar Mohan\Documents\Visual Studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.adminpanel.resources
+C:\Users\Shubhankar Mohan\Documents\Visual Studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.details.resources
+C:\Users\Shubhankar Mohan\Documents\Visual Studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.csprojResolveAssemblyReference.cache
+C:\Users\Shubhankar Mohan\Documents\Visual Studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.buybutton.resources
+C:\Users\Shubhankar Mohan\Documents\Visual Studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.keroseneb.resources
+C:\Users\Shubhankar Mohan\Documents\Visual Studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.riceb.resources
+C:\Users\Shubhankar Mohan\Documents\Visual Studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.wheatb.resources
+C:\Users\Shubhankar Mohan\Documents\Visual Studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.confirm_page.resources
+C:\Users\Shubhankar Mohan\Documents\Visual Studio 2010\Projects\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.arduino.resources
+C:\Users\Shubhankar\Desktop\vending machine\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.exe
+C:\Users\Shubhankar\Desktop\vending machine\PhoenixFire\PhoenixFire\obj\x86\Debug\PhoenixFire.pdb
